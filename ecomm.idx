@@ -1,0 +1,31 @@
+; Ecomm Index File
+; v2.08
+VERSION=2.08.002
+TITLE=Huellitas Shop
+CURRENCY=$
+COUNTRY=Guatemala
+#1|'Tacones para Dama'|'400'|'71.htm'|'tacon.jpg'|||
+#1|'Tenis para Dama'|'300'|'72.htm'|'tenism.png'|||
+#1|'Zandalias para Dama'|'250'|'73.htm'|'zandalia.jpg'|||
+#0|'Calzado Dama'||'48.htm'|'zapatos mujer.jpeg'|||
+#1|'Zapatos Niño'|'225'|'75.htm'|'formanino.jpg'|||
+#1|'Tenis Niños'|'200'|'76.htm'|'tenisnino.jpg'|||
+#1|'Zandalias Niño'|'150'|'77.htm'|'zandalianino.jpg'|||
+#0|'Calzado Niño'||'50.htm'|'ninos.jpeg'|||
+#1|'Formal para Caballero'|'350'|'78.htm'|'formalc.jpg'|||
+#1|'Tenis para Caballero'|'500'|'79.htm'|'tenisc.jpg'|||
+#1|'Formal  Caballero'|'350'|'80.htm'|'cafe.jpg'|||
+#0|'Calzado Caballero'||'49.htm'|'zpatoshombre.jpeg'|||
+#1|'Tenis para niña'|'250'|'82.htm'|'tenisni.jpg'|||
+#1|'Formal para niña'|'200'|'83.htm'|'niñaf.jpg'|||
+#1|'Zandalias para niña'|'150'|'84.htm'|'zandaliani.jpg'|||
+#0|'Calzado Niña'||'81.htm'|'zapatitos.jpg'|||
+#0|'Productos que Ofrecemos'||'25.htm'||||
+#0|'Novedades'||'26.htm'||||
+#0|'Sobre Nosotros'||'35.htm'||||
+#0|'Contactanos'||'36.htm'||||
+#0|'Como llegar'||'37.htm'||||
+#0|'Preguntas Frecuentes'||'38.htm'||||
+#0|'Invierte con nosotros'||'39.htm'||||
+#0|'Siguenos en Redes Sociales'||'40.htm'||||
+#0|'Huellitas Shop | Inicio'||'index.html'|'logo.jpg'|||
